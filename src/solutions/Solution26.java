@@ -5,7 +5,7 @@ import java.util.Arrays;
  * Task 19: ein Array mit 20 Stellen mit random Zahlen von 0-9 befüllen, iterativ den Index der ersten vorkommenden
  * Ziffer bestimmen und in eimem Array speichern, wenn nicht vorhanden -1
  */
-public class Solution19 {
+public class Solution26 {
     public static int[] searchDigits(int[] array) {
         int[] temp = new int[10];
 

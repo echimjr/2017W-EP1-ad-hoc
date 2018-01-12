@@ -4,7 +4,7 @@
  * am Bildschirmrand enden
  */
 
-public class Solution18 {
+public class Solution25 {
     public static void rec(int n, int val, double height, double drawX) {
         if (val > n) return;
         double width = 600./((double)n);

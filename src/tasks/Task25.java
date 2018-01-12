@@ -5,7 +5,7 @@
  * am Bildschirmrand enden
  */
 
-public class Task18 {
+public class Task25 {
     public static void main(String[] args) {
 
     }
