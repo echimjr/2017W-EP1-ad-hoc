@@ -1,12 +1,12 @@
 /**
- * K1 AdHoc 3
- * Task 18) Löse rekursiv: Zeichne auf einen 600x600 Canvas vertikale Blöcke, der erste Block geht von ganz unten bis
- * nach oben. Nachfolgende Blöcke sollen 15% kleiner sein als die vorhergehenden, der letzte Block soll rechts
- * am Bildschirmrand enden
+ *  Task 18) 20 zufallszahlen zwischen -100 und 100 generieren, diese in einem array speichern
+ *  und dann als säulendiagramm ausgeben: positive werte sollten nach oben zeigen,
+ *  negative klarerweise nach unten. und dazu: die positiven säulen sollten grün sein,
+ *  die negativen rot
  */
-
 public class Task18 {
     public static void main(String[] args) {
 
     }
+
 }

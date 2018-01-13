@@ -1,7 +1,6 @@
 /**
- * K1 AdHoc 3
- * Task 19: ein Array mit 20 Stellen mit random Zahlen von 0-9 befüllen, iterativ den Index der ersten vorkommenden
- * Ziffer bestimmen und in eimem Array speichern, wenn nicht vorhanden -1
+ *  Task 19) Ein array mit 20 zufallswerten zwischen 1 und 100 befüllen und dann
+ *  rekursiv die summe aller werte + den durchschnitt aller werte zurückgeben
  */
 public class Task19 {
     public static void main(String[] args) {
