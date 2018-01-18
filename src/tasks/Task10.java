@@ -4,7 +4,20 @@
  */
 public class Task10 {
     public static void main(String[] args) {
+        int numCircles = 7;
+        int startColor = 240;
+        double size;
+        StdDraw.setCanvasSize(500,500);
+        StdDraw.setScale(0,500);
 
+        for (int i = 0; i < numCircles; i++) {
+            int color = startColor - startColor/numCircles * i;
+            StdDraw.setPenColor(color, color, color);
+
+            size = 500 - 490/numCircles * i;
+            StdDraw.filledCircle(250,250, size/2);
+        }
     }
+
 }
 
